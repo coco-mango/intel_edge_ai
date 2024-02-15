@@ -1,1 +1,1 @@
-# pskcci
+# intel_edge_ai
